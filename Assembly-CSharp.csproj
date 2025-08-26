@@ -61,10 +61,10 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.52f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Candy.cs" />
-    <Compile Include="Assets\Candy1.cs" />
+    <Compile Include="Assets\Scripts\CandyManager.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
-    <Compile Include="Assets\CandyManager.cs" />
+    <Compile Include="Assets\Scripts\Candy.cs" />
+    <Compile Include="Assets\Scripts\Candy1.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
